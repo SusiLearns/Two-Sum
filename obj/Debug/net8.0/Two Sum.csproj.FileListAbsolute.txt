@@ -1,0 +1,14 @@
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.AssemblyInfoInputs.cache
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.AssemblyInfo.cs
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.csproj.CoreCompileInputs.cache
+c:\Learnings\LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.exe
+c:\Learnings\LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.deps.json
+c:\Learnings\LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.runtimeconfig.json
+c:\Learnings\LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.dll
+c:\Learnings\LeetCode\Two Sum\bin\Debug\net8.0\Two Sum.pdb
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.dll
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\refint\Two Sum.dll
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.pdb
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\Two Sum.genruntimeconfig.cache
+c:\Learnings\LeetCode\Two Sum\obj\Debug\net8.0\ref\Two Sum.dll
